@@ -1,0 +1,14 @@
+﻿Contribution:-
+Avinash- h/w connection and setup
+Diya - basic functional coding
+Binitta- RFID integration coding
+
+
+Coding skills -
+Avinash - c ,CPP ,python ,basic HTML , Burpsuite, SQL.
+
+
+Diya - c, java(basic), SQL, MEAN Stack
+
+
+Binitta - C, Java (basic), Sql, Mean Stack
